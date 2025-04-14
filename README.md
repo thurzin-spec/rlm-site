@@ -53,7 +53,7 @@
   <section class="section">
     <h2>📈 Transforme Crédito em Patrimônio</h2>
     <p>Com o consórcio, você investe de forma planejada e sem juros abusivos, adquirindo bens que geram valor real.</p>
-    <a class="cta" href="https://wa.me/5511999998888?text=Ol%C3%A1!%20Tenho%20interesse%20em%20usar%20o%20cr%C3%A9dito%20de%20cons%C3%B3rcio%20para%20alavancar%20meu%20patrim%C3%B4nio." target="_blank">Fale com um especialista via WhatsApp</a>
+    <a class="cta" href="https://wa.me/5562992662910?text=Ol%C3%A1!%20Tenho%20interesse%20em%20usar%20o%20cr%C3%A9dito%20de%20cons%C3%B3rcio%20para%20alavancar%20meu%20patrim%C3%B4nio." target="_blank">Fale com um especialista via WhatsApp</a>
   </section>
 
   <section class="section">
